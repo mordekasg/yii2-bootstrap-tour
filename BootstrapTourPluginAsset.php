@@ -6,7 +6,7 @@
  * Time: 17:03
  */
 
-namespace MyCademy\BootstrapTour;
+namespace mordekasg\BootstrapTour;
 
 
 use yii\web\AssetBundle;
