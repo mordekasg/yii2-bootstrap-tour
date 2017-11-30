@@ -1,17 +1,17 @@
 {
-  "name": "mycademy/yii2-bootstrap-tour",
+  "name": "mordekasg/yii2-bootstrap-tour",
   "description": "Bootstrap Tour Extension for Yii 2",
   "keywords": ["yii2", "bootstrap", "tour", "extension"],
   "type": "yii2-extension",
   "license": "Apache-2.0",
   "support": {
-    "issues": "https://github.com/MyCademy/yii2-bootstrap-tour/issues",
-    "source": "https://github.com/MyCademy/yii2-bootstrap-tour"
+    "issues": "https://github.com/mordekasg/yii2-bootstrap-tour/issues",
+    "source": "https://github.com/mordekasg/yii2-bootstrap-tour"
   },
   "authors": [
     {
-      "name": "Rutger Hertogh",
-      "email": "r.hertogh@mycademy.com"
+      "name": "mordek",
+      "email": "mordek.asg@gmail.com"
     }
   ],
   "require": {
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MyCademy\\BootstrapTour\\": ""
+      "mordekasg\\BootstrapTour\\": ""
     }
   },
   "extra": {
