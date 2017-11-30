@@ -16,13 +16,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require mycademy/yii2-bootstrap-tour
+php composer.phar require mordekasg/yii2-bootstrap-tour
 ```
 
 or add
 
 ```
-"mycademy/yii2-bootstrap-tour": "dev-master"
+"mordekasg/yii2-bootstrap-tour": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
@@ -35,7 +35,7 @@ For example, the following lines of code in a view file would render a Bootstrap
 ```php
 <?php
 
-use MyCademy\BootstrapTour\Tour;
+use mordekasg\BootstrapTour\Tour;
 
 Tour::widget([
     'clientOptions' => [ //Bootstrap Tour Options, see: http://bootstraptour.com/api/
