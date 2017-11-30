@@ -6,7 +6,7 @@
  * Time: 16:50
  */
 
-namespace MyCademy\BootstrapTour;
+namespace mordekasg\BootstrapTour;
 
 
 use yii\base\Widget;
@@ -14,7 +14,7 @@ use yii\helpers\Json;
 
 /**
  * Class Tour
- * @package MyCademy\BootstrapTour
+ * @package mordekasg\BootstrapTour
  *
  * @property array $clientOptions the options for the underlying Bootstrap Tour JS plugin.
  * Please refer to the corresponding [Bootstrap Tour plugin API](http://bootstraptour.com/api/) for possible options
